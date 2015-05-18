@@ -6,6 +6,7 @@ This repository contains the code used in my thesis project. In my thesis I appl
 For more information about the project and the implementation, refer to the pdf found in the Report subfolder.
 
 Author: Sondre Engebraten
+
 License: GPL v3
 
 
